@@ -14,6 +14,9 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
+            <Link href='/events'>Events</Link>
+          </li>
+          <li>
             <Link href='/posts'>Posts</Link>
           </li>
           <li>
